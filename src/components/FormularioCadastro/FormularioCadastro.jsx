@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./estilo.css";
 class FormularioCadastro extends Component {
+  //teste
   render() {
     return (
       <form className="form-cadastro ">
